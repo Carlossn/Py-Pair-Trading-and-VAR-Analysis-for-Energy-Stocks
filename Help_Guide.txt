@@ -1,0 +1,29 @@
+################## HELP ###############
+# The folder contains diverse files and documents produced by Carlos Salas Najera
+# for the completion of the CQF final project.
+
+### Quick Use Recommendation
+# The recommended approach is to read the pdf report "Carlos_Salas_CQF_Project_Report.pdf"
+# and staet inspecting the materials opening the jupyter notebook "CQF_Carlos_Salas_Project_Notebook.ipynb"
+# as the latter contains a progressive walk through the pdf document tables and charts as well as 
+# links to the different libraries and files imported.
+# 
+### Description of the files:
+# > Carlos_Salas_CQF_Project_Report.pdf: contains a comprehensive report with output from the notebook and written 
+# observations and conclusions.
+#
+# > CQF_Carlos_Salas_Project_Notebook.ipynb: jupyter notebook with observations, charts and tables used to create the
+# pdf report.
+#
+# > session_environment.txt: text file with the environment i.e. version of the Python libraries' used in the study.
+#
+# > cqf_data.h5 and cqf_data.csv: files containing the price data in different formats. 
+#
+# > Final Project Declaration - June 2016 Cohort_Carlos_Salas_signed.pdf: signed by the author as requested by CQF Institute
+#
+# > py_utility.py: Python file with built-in functions used for multiple purposes (cointegration, ADF, VAR) in the notebook.
+#
+# > VecBacktester_spread.py: Python file with backtesting class and built-in functions used for strategy backtesting.
+#
+# > Perf_Stats_Tools.py: Python file with backtesting performance statistics built-in functions imported by VeckBacktester.py.
+
